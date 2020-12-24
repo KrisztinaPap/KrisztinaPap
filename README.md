@@ -32,6 +32,5 @@ sklearn | JSON, AJAX/API
 MongoDB | git/GitHub
 GraphQL | Figma/Sketch/AdobeXD
 Vue.js | 
-REST API
 SQL
 node.js
