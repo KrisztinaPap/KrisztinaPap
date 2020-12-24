@@ -6,6 +6,7 @@
 ### A few facts about me:
 - :computer: I recently finished a full-stack software developer bootcamp
 - :muscle: I'm currently working as a Developer Intern at a local start-up 
+- :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
 - :point_right: I have a web portfolio you can check out [here](https://krisztinapap.github.io/portfolio-project/)
 - :heart: So far, I enjoy both front and back-end projects
 - :brain: I dabble in data management and data science in my free time
