@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello Stranger!
 
-<!--
-**KrisztinaPap/KrisztinaPap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Krisztina. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### :computer: I recently finished a full-stack software developer bootcamp and now working as a Developer Intern at a local start-up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's my stack, you ask? I like tables so I made one to answer this question (and a few others):
+
+I've played with | I know | I am currently learning | I want to know
+---------------- | ------ | ----------------------- | --------------
+C# | HTML5 | Linux/Ubuntu | Other Linux distributions
+DotNET Core | CSS3 | Docker | Amazon Web Services
+PHP | Javascript/ES6 | Google Cloud Platform | Microsoft Azure
+LINQ | jQuery | Apache Hop & Airflow 
+Redux | React.js
+Jupyter Notebooks | WordPress
+Axios | Bootstrap
+R | TailwindCSS
+Python | Sass
+pandas | npm
+MatPlotLib | MySQL/MariaDB
+sklearn | neo4j
+MongoDB | git/GitHub
+GraphQL | Figma/Sketch/AdobeXD
+Vue.js | JSON, AJAX/API 
