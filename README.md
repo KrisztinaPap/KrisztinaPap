@@ -19,15 +19,18 @@ I've played with | I know well | I'm currently learning | I want to know!
 C# | HTML5 | Linux/Ubuntu | Other Linux distributions
 DotNET Core | CSS3 | Docker | Amazon Web Services
 PHP | Javascript/ES6 | Google Cloud Platform | Microsoft Azure
-LINQ | jQuery | Apache Hop & Airflow | neo4j
-Redux | React.js
-Jupyter Notebooks | WordPress
-Axios | Bootstrap
-R | TailwindCSS
-Python | Sass
-pandas | npm
-MatPlotLib | MySQL/MariaDB
+LINQ | jQuery | Apache Hop & Airflow | Information Security
+Redux | React.js | neo4j | Machine Learning
+Jupyter Notebooks | WordPress | Kubernetes | Artificial Intelligence
+Axios | Bootstrap | | TypeScript
+R | TailwindCSS | | Ruby on Rails
+Python | Sass | | Ethical Hacking
+pandas | npm | | Big Data
+MatPlotLib | MySQL/MariaDB | | Improve my TDD & BDD skills 
 sklearn | JSON, AJAX/API 
 MongoDB | git/GitHub
 GraphQL | Figma/Sketch/AdobeXD
 Vue.js | 
+REST API
+SQL
+node.js
