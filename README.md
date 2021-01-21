@@ -38,3 +38,4 @@ Apache Hop & Airflow |
 neo4j |
 Kubernetes |
 Google Cloud Platform |
+SQLite |
