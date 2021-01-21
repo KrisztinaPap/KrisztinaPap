@@ -18,7 +18,7 @@
 I've played with | I know well | I'm currently learning | I want to know!
 ---------------- | ------ | ----------------------- | --------------
 C# | HTML5 | Linux/Ubuntu | Other Linux distributions
-DotNET Core | CSS3 | More .NET & .NET Core| Amazon Web Services
+.NET & .NET Core | CSS3 | More .NET & .NET Core| Amazon Web Services
 PHP | Javascript/ES6 | More Entity Framework | Microsoft Azure
 LINQ | jQuery | | Information Security
 Redux | React.js | | Machine Learning
