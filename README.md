@@ -4,11 +4,10 @@
 
 
 ### A few facts about me:
-- :computer: I recently finished a full-stack software developer bootcamp
-- :muscle: I'm currently working as a Developer Intern at a local start-up 
+- :computer: I'm currently working as a Developer Intern at a local start-up 
 - :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
 - :point_right: I have a web portfolio you can check out [here](https://www.kriszdev.com/)
-- :heart: So far, I enjoy both front and back-end projects
+- :heart: I enjoy both front and back-end projects
 - :brain: I dabble in data management and data science in my free time
 - :grin: I'm currently building a simple app for my husband so he can track battle and tournament scores for his miniature wargaming hobby
 
