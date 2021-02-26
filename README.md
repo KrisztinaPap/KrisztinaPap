@@ -19,12 +19,12 @@ I've played with | I know well | I'm currently learning | I want to know!
 ---------------- | ------ | ----------------------- | --------------
 C# | HTML5 | Linux/Ubuntu | Other Linux distributions
 .NET & .NET Core | CSS3 | More .NET & .NET Core| Amazon Web Services
-PHP | Javascript/ES6 | More Entity Framework | Microsoft Azure
-LINQ | jQuery | | Information Security
-Redux | React.js | | Machine Learning
-Jupyter Notebooks | WordPress |  | Artificial Intelligence
-Axios | Bootstrap | | TypeScript
-R | TailwindCSS | | Improve my TDD & BDD skills 
+PHP | Javascript/ES6 | More Entity Framework | Information Security
+LINQ | jQuery | Microsoft Azure | Machine Learning
+Redux | React.js | | Artificial Intelligence
+Jupyter Notebooks | WordPress |  | TypeScript
+Axios | Bootstrap | | Improve my TDD & BDD skills 
+R | TailwindCSS | | C++
 Python | Sass | | Ethical Hacking
 pandas | npm | | Big Data
 MatPlotLib | MySQL/MariaDB | 
