@@ -13,27 +13,28 @@
 
 ### I like tables so I made one to tell you about my skills:
 
-I've played with | I know well | I'm currently learning | I want to know!
+I've played with | I know well | I'm currently learning/improving at | I want to know!
 ---------------- | ------ | ----------------------- | --------------
-C# | HTML5 | Linux/Ubuntu | Other Linux distributions
-.NET & .NET Core | CSS3 | More .NET & .NET Core| Amazon Web Services
-PHP | Javascript/ES6 | More Entity Framework | Information Security
-LINQ | jQuery | Microsoft Azure | Machine Learning
-Redux | React.js | | Artificial Intelligence
-Jupyter Notebooks | WordPress |  | TypeScript
-Axios | Bootstrap | | Improve my TDD & BDD skills 
-R | TailwindCSS | | C++
-Python | Sass | | Ethical Hacking
-pandas | npm | | Big Data
+C# | HTML5 | Azure | Amazon Web Services
+.NET & .NET Core | CSS3 | Google Cloud Platform | Improve my testing skills
+PHP | Javascript/ES6 | Docker | Information Security
+LINQ | git/GitHub | Ansible | C++
+Redux | React.js | Linux | TypeScript
+Jupyter Notebooks | WordPress |  | Chef
+Axios | Bootstrap | | 
+R | TailwindCSS | | 
+Python | Sass | |
+pandas | npm | | 
 MatPlotLib | MySQL/MariaDB | 
 sklearn | JSON, AJAX/API 
-MongoDB | git/GitHub
-GraphQL | Figma/Sketch/AdobeXD
+MongoDB | Figma/Sketch/AdobeXD
+GraphQL |
 Vue.js | 
 SQL |
 node.js |
 Apache Hop & Airflow |
 neo4j |
 Kubernetes |
-Google Cloud Platform |
 SQLite |
+jQuery |
+YAML |
