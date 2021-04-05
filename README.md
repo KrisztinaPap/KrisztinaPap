@@ -8,8 +8,7 @@
 - :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
 - :point_right: I have a web portfolio you can check out [here](https://www.kriszdev.com/)
 - :heart: I enjoy both front and back-end projects
-- :brain: I dabble in data management and data science in my free time
-- :grin: I'm currently building a simple app for my husband so he can track battle and tournament scores for his miniature wargaming hobby
+- :brain: I dabble in DevOps and Data Science in my free time
 
 
 ### I like tables so I made one to tell you about my skills:
