@@ -16,7 +16,7 @@
 
 I've played with | I know well | I'm currently learning/improving at | I want to know!
 ---------------- | ------ | ----------------------- | --------------
-Docusaurus (Markdown, MDX, React, JSX, Material UI) | HTML5 | Azure | Amazon Web Services
+Docusaurus (MDX, JSX, Material UI) | HTML5 | Azure | Amazon Web Services
 YAML | CSS3 | Google Cloud Platform | Improve my testing skills
 node.js | Javascript/ES6 | Docker | Information Security
 PHP | git, GitHub | Ansible | C++
