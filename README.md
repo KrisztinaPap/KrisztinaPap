@@ -16,9 +16,9 @@
 
 I've played with | I know well | I'm currently learning/improving at | I want to know!
 ---------------- | ------ | ----------------------- | --------------
-C# | HTML5 | Azure | Amazon Web Services
-.NET & .NET Core | CSS3 | Google Cloud Platform | Improve my testing skills
-PHP | Javascript/ES6 | Docker | Information Security
+Docusaurus (Markdown/MDX, React/JSX, Material UI) | HTML5 | Azure | Amazon Web Services
+YAML | CSS3 | Google Cloud Platform | Improve my testing skills
+node.js | Javascript/ES6 | Docker | Information Security
 LINQ | git/GitHub | Ansible | C++
 Redux | React.js | Linux | TypeScript
 Jupyter Notebooks | WordPress |  | Chef
@@ -32,11 +32,11 @@ MongoDB | Figma/Sketch/AdobeXD
 GraphQL |
 Vue.js | 
 SQL |
-node.js |
+PHP |
 Apache Hop & Airflow |
 neo4j |
 Kubernetes |
 SQLite |
 jQuery |
-YAML |
-Docusaurus (Markdown/MDX, React/JSX, Material UI) |
+.NET & .NET Core |
+C# |
