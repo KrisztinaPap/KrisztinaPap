@@ -16,27 +16,20 @@
 
 I've played with | I know well | I'm currently learning/improving at | I want to know!
 ---------------- | ------ | ----------------------- | --------------
-Docusaurus (Markdown/MDX, React/JSX, Material UI) | HTML5 | Azure | Amazon Web Services
+Docusaurus (Markdown, MDX, React, JSX, Material UI) | HTML5 | Azure | Amazon Web Services
 YAML | CSS3 | Google Cloud Platform | Improve my testing skills
 node.js | Javascript/ES6 | Docker | Information Security
-LINQ | git/GitHub | Ansible | C++
+PHP | git, GitHub | Ansible | C++
 Redux | React.js | Linux | TypeScript
 Jupyter Notebooks | WordPress |  | Chef
-Axios | Bootstrap | | 
-R | TailwindCSS | | 
+jQuery | Bootstrap | | 
+Apache Hop & Airflow | TailwindCSS | | 
 Python | Sass | |
-pandas | npm | | 
-MatPlotLib | MySQL/MariaDB | 
-sklearn | JSON, AJAX/API 
-MongoDB | Figma/Sketch/AdobeXD
-GraphQL |
+Kubernetes | npm, yarn | | 
+MatPlotLib, pandas, sklearn | MySQL/MariaDB | 
+C#, .NET, .NET Core, LINQ | JSON, AJAX/API 
+MongoDB, neo4j | Figma/Sketch/AdobeXD
+Axios, GraphQL |
 Vue.js | 
-SQL |
-PHP |
-Apache Hop & Airflow |
-neo4j |
-Kubernetes |
-SQLite |
-jQuery |
-.NET & .NET Core |
-C# |
+SQL, SQLite |
+
