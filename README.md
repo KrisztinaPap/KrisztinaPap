@@ -16,7 +16,7 @@
 
 I've played with | I know well | I'm currently learning/improving at | I want to know!
 ---------------- | ------ | ----------------------- | --------------
-Docusaurus (MDX, JSX, Material UI) | HTML5 | Azure | Amazon Web Services
+Docusaurus (MDX, JSX) | HTML5 | Azure | Amazon Web Services
 YAML | CSS3 | Google Cloud Platform | Improve my testing skills
 node.js | Javascript/ES6 | Docker | Information Security
 PHP | git, GitHub | Ansible | C++
@@ -24,12 +24,12 @@ Redux | React.js | Linux | TypeScript
 Jupyter Notebooks | WordPress |  | Chef
 jQuery | Bootstrap | | 
 Apache Hop & Airflow | TailwindCSS | | 
-Python | Sass | |
+Python | Material UI | |
 Kubernetes | npm, yarn | | 
 MatPlotLib, pandas, sklearn | MySQL/MariaDB | 
 C#, .NET, .NET Core, LINQ | JSON, AJAX/API 
 MongoDB, neo4j | Figma/Sketch/AdobeXD
-Axios, GraphQL |
+Axios, GraphQL | Sass
 Vue.js | 
 SQL, SQLite |
 
