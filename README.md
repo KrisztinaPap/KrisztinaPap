@@ -39,3 +39,4 @@ Kubernetes |
 SQLite |
 jQuery |
 YAML |
+Docusaurus (MDX/JSX/React/Material UI) |
