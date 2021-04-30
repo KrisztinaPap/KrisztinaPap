@@ -40,9 +40,9 @@ General | Front-end | Back-end | Database | DevOps
 **Concepts/Patterns** | **Basics** | **Tech/Tools** | **RDBMS** | **Infrastructure**     
 Object-Oriented Programming (OOP) | HTML | ASP. NET Core | MySQL/MariaDB | Microsoft Azure      
 Model-View-Controller (MVC) | CSS | PHP | PostgreSQL |               
-- Version Control (Git/GitHub) | - JavaScript/ES6 | - Node | | **Automation**         
-| - JQuery |  | **NoSQL** | - Ansible              
-**Operating Systems (OS)** | - C# |  | - MongoDB                        
+Version Control (Git/GitHub) | JavaScript/ES6 | Node | | **Automation**         
+| JQuery |  | **NoSQL** | Ansible              
+**Operating Systems (OS)** | C# |  | MongoDB                        
 - Windows |  | **Other Tech/Tools** |  | **Virtualization**     
 - Linux (Ubuntu) | **Styling** | - Postman | **Graph**  | - VirtualBox           
 | - Bootstrap | - Axios | - neo4j | - VMWare               
