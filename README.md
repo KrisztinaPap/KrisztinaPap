@@ -47,7 +47,7 @@ Windows |  | Postman |  | **Virtualization**
 Linux (Ubuntu) | **Styling** | Axios | **Graph**  | VirtualBox           
 || Bootstrap | Express | neo4j | VMWare               
 **Content Management Systems (CMS)** | TailwindCSS | AJAX                         
-WordPress | Material UI |  | **Cloud Databses** | **Workflow Management**
+WordPress | Material UI |  | **Cloud Databases** | **Workflow Management**
 || Sass |  | Microsoft Azure SQL Database | Apache Hop           
 **Testing** |  |  | MongoDB Compass | Apache Airflow       
 Jest | **Frameworks**                       
