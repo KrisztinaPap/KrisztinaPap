@@ -38,8 +38,8 @@ SQL, SQLite |
 General | Front-end | Back-end | Database | DevOps                 
 ------- | --------- | -------- | -------- | ------
 **Concepts/Patterns** | **Basics** | **Tech/Tools** | **RDBMS** | **Infrastructure**     
-- Object-Oriented Programming (OOP) | - HTML | - ASP. NET Core | - MySQL/MariaDB | - Microsoft Azure      
-- Model-View-Controller (MVC) | - CSS | - PHP | - PostgreSQL                        
+Object-Oriented Programming (OOP) | HTML | ASP. NET Core | MySQL/MariaDB | Microsoft Azure      
+Model-View-Controller (MVC) | CSS | PHP | PostgreSQL                        
 - Version Control (Git/GitHub) | - JavaScript/ES6 | - Node | | **Automation**         
 | - JQuery |  | **NoSQL** | - Ansible              
 **Operating Systems (OS)** | - C# |  | - MongoDB                        
