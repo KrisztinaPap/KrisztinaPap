@@ -43,17 +43,17 @@ Model-View-Controller (MVC) | CSS | PHP | PostgreSQL |
 Version Control (Git/GitHub) | JavaScript/ES6 | Node | | **Automation**         
 | JQuery |  | **NoSQL** | Ansible              
 **Operating Systems (OS)** | C# |  | MongoDB                        
-- Windows |  | **Other Tech/Tools** |  | **Virtualization**     
-- Linux (Ubuntu) | **Styling** | - Postman | **Graph**  | - VirtualBox           
-| - Bootstrap | - Axios | - neo4j | - VMWare               
-**Content Management Systems (CMS)** | - TailwindCSS | - Express                         
-- WordPress | - Material UI | - AJAX | **Cloud Databses** | **Workflow Management**
-| - Sass |  | - Microsoft Azure SQL Database | - Apache Hop           
-**Testing** |  |  | - MongoDB Compass | - Apache Airflow       
-- Jest | **Frameworks**                       
-| - React |  | **Other Tech/Tools**                        
-**Other Tech/Tools** |  |  | - GraphQL                          
-- Redux                      
-- Docusaurus (JSX/MDX)                     
-- Figma/Sketch/Adobe XD                      
-- npm/yarn                    
+Windows |  | **Other Tech/Tools** |  | **Virtualization**     
+Linux (Ubuntu) | **Styling** | Postman | **Graph**  | VirtualBox           
+| Bootstrap | Axios | neo4j | VMWare               
+**Content Management Systems (CMS)** | TailwindCSS | Express                         
+WordPress | Material UI | AJAX | **Cloud Databses** | **Workflow Management**
+| Sass |  | Microsoft Azure SQL Database | Apache Hop           
+**Testing** |  |  | MongoDB Compass | Apache Airflow       
+Jest | **Frameworks**                       
+| React |  | **Other Tech/Tools**                        
+**Other Tech/Tools** |  |  | GraphQL                          
+Redux                      
+Docusaurus (JSX/MDX)                     
+Figma/Sketch/Adobe XD                      
+npm/yarn                    
