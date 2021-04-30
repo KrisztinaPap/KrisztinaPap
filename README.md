@@ -32,28 +32,4 @@ MongoDB, neo4j | Figma/Sketch/AdobeXD
 Axios, GraphQL | Sass
 Vue.js | 
 SQL, SQLite |
-
-### Here's another table breaking down my tech skills
-
-General | Front-end | Back-end | Database | DevOps                 
-------- | --------- | -------- | -------- | ------
-**Concepts/Patterns** | **Basics** | **Tech/Tools** | **RDBMS** | **Infrastructure**     
-Object-Oriented Programming (OOP) | HTML | ASP. NET Core | MySQL/MariaDB | Microsoft Azure      
-Model-View-Controller (MVC) | CSS | PHP | PostgreSQL |               
-Version Control (Git/GitHub) | JavaScript/ES6 | Node | | **Automation**         
-|| JQuery |  | **NoSQL** | Ansible              
-**Operating Systems (OS)** | C# | **Other Tech/Tools** | MongoDB                        
-Windows |  | Postman |  | **Virtualization**     
-Linux (Ubuntu) | **Styling** | Axios | **Graph**  | VirtualBox           
-|| Bootstrap | Express | neo4j | VMWare               
-**Content Management Systems (CMS)** | TailwindCSS | AJAX                         
-WordPress | Material UI |  | **Cloud Databases** | **Workflow Management**
-|| Sass |  | Microsoft Azure SQL Database | Apache Hop           
-**Testing** |  |  | MongoDB Compass | Apache Airflow       
-Jest | **Frameworks**                       
-|| React |  | **Other Tech/Tools**                        
-**Other Tech/Tools** |  |  | GraphQL                          
-Redux                      
-Docusaurus (JSX/MDX)                     
-Figma/Sketch/Adobe XD                      
-npm/yarn                    
+                  
