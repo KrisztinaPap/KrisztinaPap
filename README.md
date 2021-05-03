@@ -21,7 +21,7 @@ YAML | CSS3 | Google Cloud Platform | Improve my testing skills
 node.js | Javascript/ES6 | Docker | Information Security
 PHP | git, GitHub | Ansible | Chef
 Redux | React.js | Linux | TypeScript
-Jupyter Notebooks | WordPress |  |
+Jupyter Notebooks | WordPress | C++ |
 jQuery | Bootstrap | | 
 Apache Hop & Airflow | TailwindCSS | | 
 Python | Material UI | |
@@ -32,5 +32,5 @@ MongoDB, neo4j | Figma/Sketch/AdobeXD
 Axios, GraphQL | Sass
 Vue.js | 
 SQL, SQLite |
-C++|
+
                   
