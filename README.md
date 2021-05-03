@@ -19,9 +19,9 @@ I've played with | I know well | I'm currently learning/improving at | I want to
 Docusaurus (MDX, JSX) | HTML5 | Azure | Amazon Web Services
 YAML | CSS3 | Google Cloud Platform | Improve my testing skills
 node.js | Javascript/ES6 | Docker | Information Security
-PHP | git, GitHub | Ansible | C++
+PHP | git, GitHub | Ansible | Chef
 Redux | React.js | Linux | TypeScript
-Jupyter Notebooks | WordPress |  | Chef
+Jupyter Notebooks | WordPress |  |
 jQuery | Bootstrap | | 
 Apache Hop & Airflow | TailwindCSS | | 
 Python | Material UI | |
