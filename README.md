@@ -4,7 +4,7 @@
 
 
 ### A few facts about me:
-- :computer: I'm currently working as a Junior Software Developer at a local start-up 
+- :computer: I'm currently working as a Junior Software Engineer at a local data management start-up 
 - :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
 - :point_right: I have a web portfolio you can check out [here](https://www.kriszdev.com/)
 - :heart: I enjoy both front and back-end projects
