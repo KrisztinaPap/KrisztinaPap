@@ -16,12 +16,12 @@
 
 I've played with | I know well | I'm currently learning/improving at | I want to know!
 ---------------- | ------ | ----------------------- | --------------
-Docusaurus (MDX, JSX) | HTML5 | Azure | Amazon Web Services
+Docker | HTML5 | Azure | Amazon Web Services
 Linux | CSS3 | Container Orchestration | Improve my testing skills
 node.js | Javascript/ES6 | Python/Shell Scripting | Information Security
 PHP | git, GitHub | Chef | 
 Redux | React.js | Puppet | 
-Jupyter Notebooks | WordPress |  |
+Docusaurus (MDX, JSX) | WordPress |  |
 jQuery | Bootstrap | | 
 Apache Hop & Airflow | TailwindCSS | | 
 Python | Material UI | |
@@ -34,4 +34,5 @@ Vue.js |
 SQL, SQLite |
 Ansible |
 Google Cloud Platform |
+Jupyter Notebooks
                   
