@@ -8,12 +8,13 @@
 - :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
 - :point_right: I have a web portfolio you can check out [here](https://www.kriszdev.com/)
 - :heart: I enjoy both front and back-end projects
-- :brain: I dabble in DevOps and Data Science in my free time
-- :grin: After finishing the course "Understanding Linux" through George Brown College, I'm now working on 
-  - Network Security & Penetration Test through Algonquin College I 
+- :brain: I dabble in DevOps and Ethical Hacking in my free time
+- I :heart: learning. I'm currently working on: 
+  - Network Security & Penetration Test through Algonquin College, 
   - Cybersecurity through the Information and Communications Technology Council (ICTC) and
   - Intelligent Retail & eCommerce through the ICTC
-  I :heart: learning!
+ 
+ 
 
 
 ### I like tables so I made one to tell you about my skills:
