@@ -10,9 +10,9 @@
 - :heart: I enjoy both front and back-end projects
 - :brain: I dabble in DevOps and Ethical Hacking in my free time
 - I :heart: learning. I'm currently working on: 
-  - Network Security & Penetration Test through Algonquin College, 
+  - Network Security & Penetration Testing through Algonquin College, 
   - Cybersecurity through the Information and Communications Technology Council (ICTC) and
-  - Intelligent Retail & eCommerce through the ICTC
+  - Intelligent Retail & eCommerce also through the ICTC
  
  
 
