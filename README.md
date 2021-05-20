@@ -9,20 +9,24 @@
 - :point_right: I have a web portfolio you can check out [here](https://www.kriszdev.com/)
 - :heart: I enjoy both front and back-end projects
 - :brain: I dabble in DevOps and Data Science in my free time
-- :grin: After finishing the course "Understanding Linux" through George Brown College, I'm now working on "Network Security & Penetration Test" through Algonquin College. I :heart: learning!
+- :grin: After finishing the course "Understanding Linux" through George Brown College, I'm now working on 
+  - Network Security & Penetration Test through Algonquin College I 
+  - Cybersecurity through the Information and Communications Technology Council (ICTC) and
+  - Intelligent Retail & eCommerce through the ICTC
+  I :heart: learning!
 
 
 ### I like tables so I made one to tell you about my skills:
 
 I've played with | I know well | I'm currently learning/improving at | I want to know!
 ---------------- | ------ | ----------------------- | --------------
-Docker | HTML5 | Azure | Amazon Web Services
+Docker | HTML5 | Network Security | Amazon Web Services
 Linux | CSS3 | Container Orchestration | Improve my testing skills
 node.js | Javascript/ES6 | Python/Shell Scripting | Information Security
-PHP | git, GitHub | Chef | 
-Redux | React.js | Puppet | 
-Docusaurus (MDX, JSX) | WordPress |  |
-jQuery | Bootstrap | | 
+PHP | git, GitHub | Cybersecurity | 
+Redux | React.js | Ethical Hacking | 
+Docusaurus (MDX, JSX) | WordPress | Azure |
+jQuery | Bootstrap | Intelligent Retail & eCommerce | 
 Apache Hop & Airflow | TailwindCSS | | 
 Python | Material UI | |
 Kubernetes | npm, yarn | | 
@@ -35,4 +39,8 @@ SQL, SQLite |
 Ansible |
 Google Cloud Platform |
 Jupyter Notebooks
-                  
+Jest
+Chef
+Puppet
+PostgreSQL
+Microk8s                  
