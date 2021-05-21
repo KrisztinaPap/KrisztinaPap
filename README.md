@@ -6,13 +6,12 @@
 ### A few facts about me:
 - :computer: I'm currently working as a Junior Software Engineer at a local data management start-up 
 - :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
-- :point_right: I have a web portfolio you can check out [here](https://www.kriszdev.com/)
 - :heart: I enjoy both front and back-end projects
 - :brain: I dabble in DevOps and Ethical Hacking in my free time
 - I :heart: learning. I'm currently working on: 
   - Network Security & Penetration Testing through Algonquin College, 
   - Cybersecurity through the Information and Communications Technology Council (ICTC) and
-  - Intelligent Retail & eCommerce also through the ICTC
+  - Intelligent Retail & Commerce also through the ICTC
  
  
 
