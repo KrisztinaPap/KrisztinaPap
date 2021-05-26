@@ -21,7 +21,7 @@
 I've played with | I know well | I'm currently learning/improving at | I want to know!
 ---------------- | ------ | ----------------------- | --------------
 Docker | HTML5 | Network Security | Amazon Web Services
-Linux | CSS3 | Container Orchestration | Improve my testing skills
+Linux (Ubuntu/Kali) | CSS3 | Container Orchestration | Improve my testing skills
 node.js | Javascript/ES6 | Python/Shell Scripting | Information Security
 PHP | git, GitHub | Cybersecurity | 
 Redux | React.js | Ethical Hacking | 
