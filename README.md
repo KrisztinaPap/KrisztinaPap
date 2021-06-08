@@ -6,7 +6,6 @@
 ### A few facts about me:
 - :computer: I'm currently working as a Junior Software Engineer at a local data management start-up 
 - :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
-- :heart: I enjoy both front and back-end projects
 - :brain: I dabble in DevOps and Ethical Hacking in my free time
 - I :heart: learning. I'm currently working on: 
   - Network Security & Penetration Testing through Algonquin College, 
