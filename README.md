@@ -23,24 +23,21 @@ I've played with | I know well | I'm currently learning/improving at | I want to
 Docker | HTML5 | Network Security | Ruby
 Linux (Ubuntu/Kali) | CSS3 | Container Orchestration | Kubernetes
 node.js | Javascript/ES6 | Python/Shell Scripting | Terraform
-PHP | git, GitHub | Cybersecurity | 
+PHP | git, GitHub | Cybersecurity | Improve at Ansible, Chef and Puppet
 Redux | React.js | Ethical Hacking | 
 Docusaurus (MDX, JSX) | WordPress | DevOps |
 jQuery | Bootstrap | | 
 Apache Hop & Airflow | TailwindCSS | | 
 Python | Material UI | |
-Kubernetes | npm, yarn | | 
+PostgreSQL | npm, yarn | | 
 MatPlotLib, pandas, sklearn | MySQL/MariaDB | 
 C#, .NET, .NET Core, LINQ | JSON, AJAX/API 
 MongoDB, neo4j | Figma/Sketch/AdobeXD
 Axios, GraphQL | Sass
 Vue.js | 
 SQL, SQLite |
-Ansible |
 Google Cloud Platform |
 Jupyter Notebooks
 Jest
-Chef
-Puppet
-PostgreSQL
-Microk8s                  
+Azure
+                 
