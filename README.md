@@ -23,11 +23,11 @@
 
 I'm good at | I'm currently learning/improving at | I want to know!
 ----------- | ----------------------------------- | ---------------
-Coaching | Application Security | Automating security processes
-Interviewing | Ethical hacking | Puppet
+Coaching | Application security (AppSec) | Application Security Operations (AppSecOps)
+Interviewing | Ethical hacking | OSINT
 Risk/vulnerability assessments | DevOps processes | Chef
-Incident reponse planning | Network security | Terraform
-Project management | Ansible
+Incident reponse planning | Network security | Puppet
+Project management | Ansible | Terraform
 
 
 #### Software development skills
