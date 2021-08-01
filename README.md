@@ -16,29 +16,60 @@
  
 
 
-### I like tables so I made one to tell you about my skills:
+### I like tables so I made two to tell you about my skills:
 
-I've played with | I know well | I'm currently learning/improving at | I want to know!
----------------- | ------ | ----------------------- | --------------
-Docker | HTML5 | Network Security | Ruby
-Linux (Ubuntu/Kali) | CSS3 | Container Orchestration | Kubernetes
-node.js | Javascript/ES6 | Python/Shell Scripting | Terraform
-PHP | git, GitHub | Cybersecurity | Improve at Ansible, Chef and Puppet
-Redux | React.js | Ethical Hacking | 
-Docusaurus (MDX, JSX) | WordPress | DevOps |
-jQuery | Bootstrap | | 
-Apache Hop & Airflow | TailwindCSS | | 
-Python | Material UI | |
-PostgreSQL | npm, yarn | | 
-MatPlotLib, pandas, sklearn |  | 
-C#, .NET, .NET Core, LINQ | 
-MongoDB, neo4j | Figma/Sketch/AdobeXD
-Axios, GraphQL | Sass
-Vue.js | 
-SQL, SQLite |
-Google Cloud Platform |
-Jupyter Notebooks
-Jest
-Azure
-JSON, AJAX/API  
-MySQL/MariaDB
+#### Professional/industry skills
+
+I'm good at | I'm currently learning/improving at | I want to know!
+----------- | ----------------------------------- | ---------------
+Coaching | Network security | Automating security processes
+Interviewing | Ethical hacking | Puppet
+Risk/vulnerability assessments | DevOps processes | Chef
+Incident reponse planning | Ansible
+Project management | 
+
+
+#### Software development skills
+
+I know | I'm currently learning/improving at | I want to know!
+------ | ----------------------------------- | --------------
+Version control (Git/GitHub) | Microsoft Azure | Amazon Web Services
+Linux (Ubuntu/Kali) | Google Cloud Platform
+Apache Hop
+Apache Airflow
+WordPress
+
+
+#### Coding-specific skills
+
+I know | I'm currently learning/improving at | I want to know!
+------ | ----------------------------------- | --------------
+HTML | Container orchestration | Ruby
+CSS | Python/Shell Scripting | Terraform
+JavaScript
+Bootstrap
+TailwindCSS
+Python (including DAGs)
+PostgreSQL
+npm, yarn
+
+
+
+I've also worked with the following technologies but could use a skill refresher:
+- PHP
+- React
+- Redux
+- Jest
+- jQuery 
+- JSON, AJAX/API  
+- Docusaurus (MDX, JSX)
+- Material UI
+- Jupyter Notebooks, MatPlotLib, pandas, sklearn 
+- C#, .NET, .NET Core, LINQ, Entity Framework  
+- Axios, GraphQL 
+- Sass
+- Vue.js 
+- SQL, SQLite
+- MySQL/MariaDB
+- MongoDB, neo4j 
+- Figma/Sketch/AdobeXD
