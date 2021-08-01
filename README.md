@@ -8,7 +8,7 @@
 - :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
 - :brain: I dabble in DevOps and Ethical Hacking in my free time
 - I :heart: learning. I just recently completed:
-  - We Hack Purple's Application Security Foundations program (levels I-III)
+  - We Hack Purple's Application Security Foundations Program (levels I-III)
   - The Information and Communications Technology Council (ICTC)'s Cybersecurity program
 - :books: I'm currently working on: 
   - Network Security & Penetration Testing through Algonquin College
