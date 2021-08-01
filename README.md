@@ -26,7 +26,7 @@ I'm good at | I'm currently learning/improving at | I want to know!
 Coaching | Network security | Automating security processes
 Interviewing | Ethical hacking | Puppet
 Risk/vulnerability assessments | DevOps processes | Chef
-Incident reponse planning | Ansible
+Incident reponse planning | Ansible | Terraform
 Project management | 
 
 
@@ -46,7 +46,7 @@ WordPress
 I know | I'm currently learning/improving at | I want to know!
 ------ | ----------------------------------- | --------------
 HTML | Container orchestration | Ruby
-CSS | Python/Shell Scripting | Terraform
+CSS | Python/Shell Scripting 
 JavaScript
 Bootstrap
 TailwindCSS
@@ -58,6 +58,7 @@ npm, yarn
 
 I've also worked with the following technologies but could use a skill refresher:
 - PHP
+- Vue.js 
 - React
 - Redux
 - Jest
@@ -69,7 +70,6 @@ I've also worked with the following technologies but could use a skill refresher
 - C#, .NET, .NET Core, LINQ, Entity Framework  
 - Axios, GraphQL 
 - Sass
-- Vue.js 
 - SQL, SQLite
 - MySQL/MariaDB
 - MongoDB, neo4j 
