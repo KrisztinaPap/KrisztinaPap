@@ -36,8 +36,8 @@ I know | I'm currently learning/improving at | I want to know!
 ------ | ----------------------------------- | --------------
 Version control (Git/GitHub) | Microsoft Azure | Amazon Web Services
 Linux (Ubuntu/Kali) | Google Cloud Platform
-Apache Hop
-Apache Airflow
+Apache Hop | Virtualization
+Apache Airflow | Container orchestration
 WordPress
 
 
@@ -45,7 +45,7 @@ WordPress
 
 I know | I'm currently learning/improving at | I want to know!
 ------ | ----------------------------------- | --------------
-HTML | Container orchestration | Ruby
+HTML | Docker | Ruby
 CSS | Python/Shell Scripting 
 JavaScript
 Bootstrap
