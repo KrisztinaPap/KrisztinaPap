@@ -30,8 +30,8 @@ jQuery | Bootstrap | |
 Apache Hop & Airflow | TailwindCSS | | 
 Python | Material UI | |
 PostgreSQL | npm, yarn | | 
-MatPlotLib, pandas, sklearn | MySQL/MariaDB | 
-C#, .NET, .NET Core, LINQ | JSON, AJAX/API 
+MatPlotLib, pandas, sklearn |  | 
+C#, .NET, .NET Core, LINQ | 
 MongoDB, neo4j | Figma/Sketch/AdobeXD
 Axios, GraphQL | Sass
 Vue.js | 
@@ -40,4 +40,5 @@ Google Cloud Platform |
 Jupyter Notebooks
 Jest
 Azure
-                 
+JSON, AJAX/API  
+MySQL/MariaDB
