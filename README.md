@@ -9,8 +9,8 @@
 - :brain: I dabble in DevOps and Ethical Hacking in my free time
 - I :heart: learning. I just recently completed:
   - The Information and Communications Technology Council (ICTC)'s Cybersecurity program
-- I'm currently working on: 
-  - A course titled Network Security & Penetration Testing through Algonquin College
+- :books: I'm currently working on: 
+  - Network Security & Penetration Testing through Algonquin College
 
  
  
@@ -20,13 +20,13 @@
 
 I've played with | I know well | I'm currently learning/improving at | I want to know!
 ---------------- | ------ | ----------------------- | --------------
-Docker | HTML5 | Network Security | Amazon Web Services
-Linux (Ubuntu/Kali) | CSS3 | Container Orchestration | Improve my testing skills
-node.js | Javascript/ES6 | Python/Shell Scripting | Information Security
+Docker | HTML5 | Network Security | Ruby
+Linux (Ubuntu/Kali) | CSS3 | Container Orchestration | Kubernetes
+node.js | Javascript/ES6 | Python/Shell Scripting | Terraform
 PHP | git, GitHub | Cybersecurity | 
 Redux | React.js | Ethical Hacking | 
-Docusaurus (MDX, JSX) | WordPress | Azure |
-jQuery | Bootstrap | Intelligent Retail & eCommerce | 
+Docusaurus (MDX, JSX) | WordPress | DevOps |
+jQuery | Bootstrap | | 
 Apache Hop & Airflow | TailwindCSS | | 
 Python | Material UI | |
 Kubernetes | npm, yarn | | 
