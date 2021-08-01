@@ -16,7 +16,8 @@
  
 
 
-### I like tables so I made two to tell you about my skills:
+### I like tables so I made some to tell you about my skills:
+
 
 #### Professional/industry skills
 
