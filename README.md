@@ -6,13 +6,14 @@
 ### A few facts about me:
 - :computer: I'm currently working as a Software Engineer II at a local data management start-up 
 - :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
-- :brain: I dabble in DevOps and Ethical Hacking in my free time
+- :brain: I enjoy Ethical Hacking in my free time
 - I :heart: learning. I just recently completed:
   - Network Security & Penetration Testing through Algonquin College
   - We Hack Purple's Application Security Foundations Program (levels I-III)
   - The Information and Communications Technology Council (ICTC)'s Cybersecurity program
 - :books: I'm currently working on: 
   - The WiCyS Security Training Scholarship stage 2 - SANS Cyber Start
+  - TryHackMe
   - CySA+ exam prep course (George Brown College) 
 
  
