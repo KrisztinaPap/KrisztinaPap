@@ -12,7 +12,7 @@
   - We Hack Purple's Application Security Foundations Program (levels I-III)
   - The Information and Communications Technology Council (ICTC)'s Cybersecurity program
 - :books: I'm currently working on: 
-  - The WiCyS Security Training Scholarship stage 2 - SANS Cyber Start
+  - The WiCyS Security Training Scholarship stage 3
   - TryHackMe
   - CySA+ exam prep course (George Brown College) 
 
