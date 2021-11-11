@@ -35,6 +35,7 @@ Incident reponse planning | DevOps processes | Chef
 Project management | Network security | Puppet
 Coaching | Ansible 
 
+
 For ethical hacking, I enjoy using: 
 - nmap
 - nikto
@@ -51,14 +52,14 @@ For ethical hacking, I enjoy using:
 
 #### General Software development skills
 
-I know | I'm currently learning/improving at | I want to know!
+I know | I'm currently improving at | I want to know!
 ------ | ----------------------------------- | --------------
 Version control (Git/GitHub) | Microsoft Azure | Amazon Web Services
 Linux (Ubuntu/Kali) | Google Cloud Platform
 Cloud (Azure, GCP) | Containerization
 ETL (Apache Hop) | Virtualization
 Orchestration (Apache Airflow) 
-Content Management System (WordPress, Squarespace, Wix)
+Content Management Systems (WordPress, Squarespace, Wix)
 
 
 #### Coding-specific skills
