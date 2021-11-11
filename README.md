@@ -8,10 +8,10 @@
 - :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
 - :brain: I enjoy Ethical Hacking in my free time
 - I :heart: learning. I just recently completed:
+  - Participated in the competitive WiCyS Security Training Scholarship (made it to stage 3)
   - Network Security & Penetration Testing through Algonquin College
   - We Hack Purple's Application Security Foundations Program (levels I-III)
   - The Information and Communications Technology Council (ICTC)'s Cybersecurity program
-  - Participated in the competitive WiCyS Security Training Scholarship (made it into stage 3)
 - :books: I'm currently working on: 
   - CySA+ exam prep course (George Brown College)
   - Azure Ignite (Azure Administrator Challenge) 
