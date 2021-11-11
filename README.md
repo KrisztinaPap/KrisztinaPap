@@ -11,10 +11,12 @@
   - Network Security & Penetration Testing through Algonquin College
   - We Hack Purple's Application Security Foundations Program (levels I-III)
   - The Information and Communications Technology Council (ICTC)'s Cybersecurity program
+  - Participated in the competitive WiCyS Security Training Scholarship (made it into stage 3)
 - :books: I'm currently working on: 
-  - The WiCyS Security Training Scholarship stage 3
+  - CySA+ exam prep course (George Brown College)
+  - Azure Ignite (Azure Administrator Challenge) 
   - TryHackMe
-  - CySA+ exam prep course (George Brown College) 
+
 
  
  
@@ -27,11 +29,24 @@
 
 I'm good at | I'm currently learning/improving at | I want to know!
 ----------- | ----------------------------------- | ---------------
-Coaching | Application security (AppSec) | Application Security Operations (AppSecOps)
-Interviewing | Ethical hacking | OSINT
-Risk/vulnerability assessments | DevOps processes | Chef
-Incident reponse planning | Network security | Puppet
-Project management | Ansible | Terraform
+Critical thinking | Application security (AppSec) | Terraform
+Risk/vulnerability assessments | Ethical hacking | OSINT
+Incident reponse planning | DevOps processes | Chef
+Project management | Network security | Puppet
+Coaching | Ansible 
+
+For ethical hacking, I enjoy using: 
+- nmap
+- nikto
+- Burp Suite
+- OWASP ZAP
+- Wireshark
+- John the Ripper
+- Hydra
+- Autopsy
+- Metasploit
+- Maltego
+- Browser Developer Tools (Firefox and Chrome)
 
 
 #### Software development skills
@@ -40,23 +55,23 @@ I know | I'm currently learning/improving at | I want to know!
 ------ | ----------------------------------- | --------------
 Version control (Git/GitHub) | Microsoft Azure | Amazon Web Services
 Linux (Ubuntu/Kali) | Google Cloud Platform
-Apache Hop | Virtualization
-Apache Airflow | Container orchestration
-WordPress
+Cloud (Azure, GCP) | Containerization
+ETL (Apache Hop) | Virtualization
+Orchestration (Apache Airflow) 
+Content Management System (WordPress, Squarespace, Wix)
 
 
 #### Coding-specific skills
 
 I know | I'm currently learning/improving at | I want to know!
 ------ | ----------------------------------- | --------------
-HTML | Docker | Ruby
-CSS | Python/Shell Scripting 
-JavaScript
-Bootstrap
-TailwindCSS
-Python (including DAGs)
-PostgreSQL
-npm, yarn
+Python (including DAGs) | Docker | Ruby
+Version control (git/GitHub) | Shell Scripting 
+JavaScript | Azure CLI
+HTML/CSS
+Bootstrap, TailwindCSS
+Databases (SQL, PostgreSQL)
+Package managers (npm, yarn)
 
 
 
@@ -74,7 +89,6 @@ I've also worked with the following technologies but could use a skill refresher
 - C#, .NET, .NET Core, LINQ, Entity Framework  
 - Axios, GraphQL 
 - Sass
-- SQL, SQLite
 - MySQL/MariaDB
 - MongoDB, neo4j 
 - Figma/Sketch/AdobeXD
