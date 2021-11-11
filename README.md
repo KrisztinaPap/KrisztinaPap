@@ -49,7 +49,7 @@ For ethical hacking, I enjoy using:
 - Browser Developer Tools (Firefox and Chrome)
 
 
-#### Software development skills
+#### General Software development skills
 
 I know | I'm currently learning/improving at | I want to know!
 ------ | ----------------------------------- | --------------
@@ -66,9 +66,8 @@ Content Management System (WordPress, Squarespace, Wix)
 I know | I'm currently learning/improving at | I want to know!
 ------ | ----------------------------------- | --------------
 Python (including DAGs) | Docker | Ruby
-Version control (git/GitHub) | Shell Scripting 
+HTML/CSS | Shell Scripting 
 JavaScript | Azure CLI
-HTML/CSS
 Bootstrap, TailwindCSS
 Databases (SQL, PostgreSQL)
 Package managers (npm, yarn)
