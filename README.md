@@ -31,7 +31,7 @@ I'm good at | I'm currently learning/improving at | I want to know!
 ----------- | ----------------------------------- | ---------------
 Critical thinking | Application security (AppSec) | Terraform
 Risk/vulnerability assessments | Ethical hacking | OSINT
-Incident reponse planning | DevOps processes | Chef
+Incident response planning | DevOps processes | Chef
 Project management | Network security | Puppet
 Coaching | Ansible 
 
