@@ -4,7 +4,7 @@
 
 
 ### A few facts about me:
-- :computer: I'm currently working as a Software Engineer II at a local data management start-up 
+- :computer: I'm currently working as a Software Developer 
 - :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
 - :brain: I enjoy Ethical Hacking in my free time
 - I :heart: learning. I just recently completed:
