@@ -14,7 +14,8 @@
   - We Hack Purple's Application Security Foundations Program (levels I-III)
   - The Information and Communications Technology Council (ICTC)'s Cybersecurity program
 - :books: I'm currently working on: 
-  - Azure Ignite (Azure Administrator Challenge) 
+  - Azure Ignite AZ-104
+  - AWS Cloud Practitioner
   - TryHackMe
 
 
