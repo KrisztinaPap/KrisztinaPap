@@ -8,15 +8,14 @@
 - :briefcase: I'm on LinkedIn, visit me by clicking [here](https://www.linkedin.com/in/krisztinapap/)
 - :brain: I enjoy Ethical Hacking in my free time
 - I :heart: learning. I just recently completed:
+  - AWS Cloud Practitioner certification
   - CySA+ exam prep course (George Brown College)
   - Participated in the competitive WiCyS Security Training Scholarship (made it to stage 3)
   - Network Security & Penetration Testing through Algonquin College
   - We Hack Purple's Application Security Foundations Program (levels I-III)
   - The Information and Communications Technology Council (ICTC)'s Cybersecurity program
 - :books: I'm currently working on: 
-  - Azure Ignite AZ-104
-  - AWS Cloud Practitioner
-  - TryHackMe
+  - Learning PHP/Laravel/Eloquent 
 
 
  
@@ -67,17 +66,17 @@ Content Management Systems (WordPress, Squarespace, Wix)
 
 I know | I'm currently learning/improving at | I want to know!
 ------ | ----------------------------------- | --------------
-Python (including DAGs) | Docker | Ruby
-HTML/CSS | Shell Scripting 
-JavaScript | Azure CLI
+Python (including DAGs) | PHP/Laravel/Eloquent | Ruby
+HTML/CSS 
 Bootstrap, TailwindCSS
+MySQL/MariaDB
 Databases (SQL, PostgreSQL)
 Package managers (npm, yarn)
 
 
 
 I've also worked with the following technologies but could use a skill refresher:
-- PHP
+- JavaScript 
 - Vue.js 
 - React
 - Redux
@@ -90,6 +89,5 @@ I've also worked with the following technologies but could use a skill refresher
 - C#, .NET, .NET Core, LINQ, Entity Framework  
 - Axios, GraphQL 
 - Sass
-- MySQL/MariaDB
 - MongoDB, neo4j 
 - Figma/Sketch/AdobeXD
