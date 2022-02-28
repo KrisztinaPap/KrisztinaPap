@@ -24,14 +24,15 @@ I'm good at | I'm currently learning/improving at | I want to know!
 ------------|-------------------------------------|----------------
 JavaScript/ES6 | Python (including DAGs) | Terraform
 Python (basic Python and DAGs) | Containerization | Ruby
-Version control (Git/GitHub) | Orchestration (Apache Airflow) | PHP/Laravel/Eloquent
-HTML/CSS | Cloud (AWS, Azure, GCP) | Virtualization
-Bootstrap, TailwindCSS |  
-Databases (SQL, PostgreSQL, MySQL/MariaDB) | 
+HTML/CSS | Orchestration (Apache Airflow) | PHP/Laravel/Eloquent
+Bootstrap, TailwindCSS | Cloud (AWS, Azure, GCP) | Virtualization
+Databases (SQL, PostgreSQL, MySQL/MariaDB) |  
 Package managers (npm, yarn) | 
 Linux (Ubuntu/Kali) | 
 ETL (Apache Hop) 
 Content Management Systems (WordPress, Squarespace, Wix)
+Basic network security
+Version control (Git/GitHub) 
 
 
 
