@@ -14,73 +14,31 @@
   - Network Security & Penetration Testing through Algonquin College
   - We Hack Purple's Application Security Foundations Program (levels I-III)
   - The Information and Communications Technology Council (ICTC)'s Cybersecurity program
-- :books: I'm currently working on: 
-  - Learning PHP/Laravel/Eloquent 
-
-
- 
- 
-
+- :books: I'm currently working on/toward:
+  - Learning more advanced Python 
+  - AWS Cloud Architect certification
 
 ### I like tables so I made some to tell you about my skills:
 
-
-#### Professional/industry skills
-
-I'm good at | I'm currently learning/improving at | I want to know!
------------ | ----------------------------------- | ---------------
-Critical thinking | Application security (AppSec) | Terraform
-Risk/vulnerability assessments | Ethical hacking | OSINT
-Incident response planning | DevOps processes | Chef
-Project management | Network security | Puppet
-Coaching | Ansible 
-
-
-For ethical hacking, I enjoy using: 
-- nmap
-- nikto
-- Burp Suite
-- OWASP ZAP
-- Wireshark
-- John the Ripper
-- Hydra
-- Autopsy
-- Metasploit
-- Maltego
-- Browser Developer Tools (Firefox and Chrome)
-
-
-#### General Software development skills
-
-I know | I'm currently improving at | I want to know!
------- | ----------------------------------- | --------------
-Version control (Git/GitHub) | Microsoft Azure | Amazon Web Services
-Linux (Ubuntu/Kali) | Google Cloud Platform
-Cloud (Azure, GCP) | Containerization
-ETL (Apache Hop) | Virtualization
-Orchestration (Apache Airflow) 
+I'm good at | I'm currently learning/improsing at | I want to know!
+------------|-------------------------------------|----------------
+Version control (Git/GitHub) | Python (including DAGs) | Ruby
+HTML/CSS | Cloud (AWS, Azure, GCP) | Terraform
+Bootstrap, TailwindCSS | Containerization
+Databases (SQL, PostgreSQL, MySQL/MariaDB) | PHP/Laravel/Eloquent
+Package managers (npm, yarn) | Virtualization
+Linux (Ubuntu/Kali) | Orchestration (Apache Airflow) 
+ETL (Apache Hop) 
 Content Management Systems (WordPress, Squarespace, Wix)
-
-
-#### Coding-specific skills
-
-I know | I'm currently learning/improving at | I want to know!
------- | ----------------------------------- | --------------
-Python (including DAGs) | PHP/Laravel/Eloquent | Ruby
-HTML/CSS 
-Bootstrap, TailwindCSS
-MySQL/MariaDB
-Databases (SQL, PostgreSQL)
-Package managers (npm, yarn)
 
 
 
 I've also worked with the following technologies but could use a skill refresher:
-- JavaScript 
+- JavaScript/ES6
 - Vue.js 
-- React
+- React.js
 - Redux
-- Jest
+- Jest/Jasmine
 - jQuery 
 - JSON, AJAX/API  
 - Docusaurus (MDX, JSX)
