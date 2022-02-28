@@ -20,14 +20,15 @@
 
 ### I like tables so I made some to tell you about my skills:
 
-I'm good at | I'm currently learning/improsing at | I want to know!
+I'm good at | I'm currently learning/improving at | I want to know!
 ------------|-------------------------------------|----------------
-Version control (Git/GitHub) | Python (including DAGs) | Ruby
+Python (including DAGs) | Orchestration (Apache Airflow) | Ruby
+Version control (Git/GitHub) | Python (including DAGs) | PHP/Laravel/Eloquent
 HTML/CSS | Cloud (AWS, Azure, GCP) | Terraform
-Bootstrap, TailwindCSS | Containerization
-Databases (SQL, PostgreSQL, MySQL/MariaDB) | PHP/Laravel/Eloquent
-Package managers (npm, yarn) | Virtualization
-Linux (Ubuntu/Kali) | Orchestration (Apache Airflow) 
+Bootstrap, TailwindCSS | Containerization | Virtualization
+Databases (SQL, PostgreSQL, MySQL/MariaDB) | 
+Package managers (npm, yarn) | 
+Linux (Ubuntu/Kali) | 
 ETL (Apache Hop) 
 Content Management Systems (WordPress, Squarespace, Wix)
 
