@@ -22,10 +22,11 @@
 
 I'm good at | I'm currently learning/improving at | I want to know!
 ------------|-------------------------------------|----------------
-Python (including DAGs) | Orchestration (Apache Airflow) | Ruby
-Version control (Git/GitHub) | Python (including DAGs) | PHP/Laravel/Eloquent
-HTML/CSS | Cloud (AWS, Azure, GCP) | Terraform
-Bootstrap, TailwindCSS | Containerization | Virtualization
+JavaScript/ES6 | Python (including DAGs) | Terraform
+Python (basic Python and DAGs) | Orchestration (Apache Airflow) | Ruby
+Version control (Git/GitHub) |  | PHP/Laravel/Eloquent
+HTML/CSS | Cloud (AWS, Azure, GCP) | Virtualization
+Bootstrap, TailwindCSS | Containerization |
 Databases (SQL, PostgreSQL, MySQL/MariaDB) | 
 Package managers (npm, yarn) | 
 Linux (Ubuntu/Kali) | 
@@ -35,7 +36,6 @@ Content Management Systems (WordPress, Squarespace, Wix)
 
 
 I've also worked with the following technologies but could use a skill refresher:
-- JavaScript/ES6
 - Vue.js 
 - React.js
 - Redux
