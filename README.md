@@ -25,7 +25,7 @@
 I'm pretty good at | I'm currently learning/improving | I want to know more about
 -------------------|-------------------------------------|----------------
 JavaScript/ES6 | Ruby & Ruby on Rails | Containerization
-Python & Django, Dynamic Acyclic Graphs | React Native | Terraform
+Python & Django | React Native | Terraform
 HTML & CSS | GraphQL | Cloud everything (AWS, Azure, GCP)
 Databases (SQL, PostgreSQL, MySQL/MariaDB) | Testing | C++
 Bootstrap, TailwindCSS | 
