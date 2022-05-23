@@ -20,7 +20,7 @@
   - Tutoring Python & Django
   - COMP206 - Intro to programming with C++ (as part of my degree program but also because I've always wanted to learn C++) 
 
-### I like tables so I made some to tell you about my skills:
+### I like tables so I made one to tell you about my skills:
 
 I'm pretty good at | I'm currently learning/improving | I want to know more about
 -------------------|-------------------------------------|----------------
