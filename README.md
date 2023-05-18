@@ -22,6 +22,5 @@
 
 ### I'm also pretty good with:
 - Cloud things (AWS, Azure, GCP)
-- Windows/Mac/Linux (Ubuntu/Kali)
 - Basic network security
 - UX/UI things (Figma, Sketch, AdobeXD)
