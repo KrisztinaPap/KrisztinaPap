@@ -21,6 +21,7 @@
 
 
 ### I'm also pretty good with:
+- AI coding assistants (GitHub Copilot Chat, Cursor agent)
 - Cloud things (AWS, Azure, GCP)
 - Basic network security
 - UX/UI things (Figma, Sketch, AdobeXD)
